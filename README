@@ -1,0 +1,10 @@
+Read me:
+
+This program is a Java program of Bayesian curve fitting, which can provide prediction of stock price.
+The data has been added in the CurveFitting folder, which could be run in the code.
+
+In the Bayesian prediction, a is set to 0.005, b is set to 11.1, M is set to 5.
+CurveFitting.java, ReadCVS.java, Prediction.java are be added in folder”CurveFitting/src/Jama;”.
+
+For running the code successfully, JRE and JVM 1.8 is needed. Jama 1.0.3 should be import.
+

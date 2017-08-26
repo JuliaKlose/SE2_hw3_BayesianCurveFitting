@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CurveFitting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CurveFitting_jar</output-path>
+    <root id="archive" name="CurveFitting.jar">
+      <element id="module-output" name="CurveFitting" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Jama-1.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
